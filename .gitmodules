@@ -1,3 +1,6 @@
 [submodule "RNN-to-Model-Protein-Sequences"]
 	path = RNN-to-Model-Protein-Sequences
 	url = git@github.com:a-hamza-r/RNN-to-Model-Protein-Sequences.git
+[submodule "RNN-and-LSTM-Assignment"]
+	path = RNN-and-LSTM-Assignment
+	url = git@github.com:a-hamza-r/RNN-and-LSTM-Assignment.git
