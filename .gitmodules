@@ -1,0 +1,3 @@
+[submodule "RNN-to-Model-Protein-Sequences"]
+	path = RNN-to-Model-Protein-Sequences
+	url = git@github.com:a-hamza-r/RNN-to-Model-Protein-Sequences.git
